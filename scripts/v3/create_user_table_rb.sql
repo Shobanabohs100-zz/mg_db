@@ -1,0 +1,2 @@
+USE sql7295922;
+DROP TABLE Persons;
