@@ -1,5 +1,5 @@
-USE sql7295922;
-CREATE TABLE Persons
+USE _service_name;
+CREATE TABLE _table_name
 (
     PersonID int,
     LastName varchar(255),
