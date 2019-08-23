@@ -1,5 +1,5 @@
-USE sql7295922;
-CREATE TABLE Persons
+USE &db;
+CREATE TABLE &table
 (
     PersonID int,
     LastName varchar(255),
